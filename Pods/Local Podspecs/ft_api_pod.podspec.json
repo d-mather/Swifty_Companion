@@ -1,0 +1,27 @@
+{
+  "name": "ft_api_pod",
+  "version": "0.1.0",
+  "summary": "ft_api_pod will serve as a data retriever",
+  "description": "ft_api_pod will be the middle man between the user backend and the 42 api\nPretty cool ey!",
+  "homepage": "https://github.com/phjacobs7ag/ft_api_pod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Eben Dorland && Phillip Jacobs": "phjacobs@student.42.fr"
+  },
+  "source": {
+    "git": "https://github.com/phjacobs7ag/ft_api_pod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.2"
+  },
+  "source_files": "ft_api_pod/Classes/**/*",
+  "dependencies": {
+    "AlamofireSwiftyJSON": [
+
+    ]
+  }
+}
