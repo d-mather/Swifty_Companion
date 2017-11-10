@@ -1,0 +1,6 @@
+framework module ft_api_pod {
+  umbrella header "ft_api_pod-umbrella.h"
+
+  export *
+  module * { export * }
+}
