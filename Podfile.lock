@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (4.5.1)
+  - AlamofireSwiftyJSON (1.0.0):
+    - Alamofire (~> 4.0)
+    - SwiftyJSON (~> 3.0)
+  - ft_api_pod (0.1.0):
+    - AlamofireSwiftyJSON
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire
+  - ft_api_pod (from `podBase/ft_api_pod`)
+  - SwiftyJSON
+
+EXTERNAL SOURCES:
+  ft_api_pod:
+    :path: podBase/ft_api_pod
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  AlamofireSwiftyJSON: 78908b766483a28aa5cc90fd191a687467042973
+  ft_api_pod: c6185fd34c2d83e1202d4b4f7466ea8d4cad5b08
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 0101e9d6a15ec9e427cddf1414726b7205472c8d
+
+COCOAPODS: 1.3.1
